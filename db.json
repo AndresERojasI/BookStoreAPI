@@ -1,0 +1,8 @@
+{
+    "books" : [
+        { "id": 1, "title": "100 años de soledad", "author": "GABRIEL GARCÍA MÁRQUEZ", "description": "El miércoles de ceniza, antes de que volvieran a dispersarse en el litoral, Amaranta consiguió que se pusieran ropas dominicales y la acompañaran a la iglesia Más divertidos que piadosos, se dejaron conducir hasta el comulgatorio donde el padre Antonio Isabel les puso en la frente la cruz de ceniza De regreso a casa, cuando el menor quiso limpiarse la frente descubrió que la mancha era indeleble, y que lo eran también las de sus hermanos. Probaron con agua y jabón con tierra y estropajo, y por último con piedra pómez y lejía y no con siguieron borrarse la cruz. En cambio, Amaranta y los demás que fueron a misa se la quitaron sin dificultad."},
+        { "id": 2, "title": "Crimen y Castigo", "author": "FIÓDOR DOSTOYEVSKI", "description": "Nosotros nos representamos siempre la eternidad como una idea que no podemos comprender, ¡inmensa, inmensa! Pero, ¿Por qué ha de ser así necesariamente? Pues en lugar de eso, imagínese una habitación pequeña, como quien dice un cuarto de baño, ennegrecido por el humo, con telarañas por todos los rincones, y he ahí toda la eternidad. Mire usted, yo me la imagino así algunas veces."},
+        { "id": 3, "title": "Orgullo y Prejuicio", "author": "JANE AUSTEN", "description": "-Puede ser que la poesía sea el alimento de un amor sólido y saludable. Alimenta lo que ya es fuerte. Pero si se trata más bien de una ligera, más bien débil inclinación, estoy convencida de que un soneto puede extinguirla por completo. –Elizabeth Bennet."} 
+        
+    ]
+}
